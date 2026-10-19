@@ -1,0 +1,8 @@
+{
+  "name": "Smart SysAdmin CLI & Linux Server Maintenance Assistant",
+  "description": "Otomatik SSH Linux Sunucu Bakım Asistanı: Tek tıkla CPU, RAM, Disk, /var/log ve Docker taraması, Gemini destekli akıllı kök-neden analizi, güvenli çözüm komutları ve otomatik e-posta uyarı sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
